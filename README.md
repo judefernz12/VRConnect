@@ -2,6 +2,8 @@
 
 VRConnect is a social virtual reality application designed to bring the movie theater experience into the comfort of your home. With VRConnect, you can enjoy movie nights with friends, no matter where they are. Create or join virtual rooms, manage video playback seamlessly, and chat with your friends using voice controls, all within an immersive VR environment. Whether you're hosting a movie marathon or just watching a quick video together, VRConnect makes it feel like you're all in the same room.
 
+![Screenshots/1.png](https://iili.io/dlK07oX.png)
+
 ## Features
 
 - **Virtual Rooms**: Create or join rooms where you and your friends can watch movies together in a virtual space.
@@ -10,8 +12,6 @@ VRConnect is a social virtual reality application designed to bring the movie th
 - **Immersive Experience**: VRConnect provides a fully immersive experience. Feel like you're sitting in a real movie theater with your friends.
 - **Easy Setup**: Set up your VR headset, log in to VRConnect, and enter the room name to start your movie night in seconds.
   
-  <img src="https://img.eselt.de/img/15927791_ZKMyBHok7EZUnhGw/ad.jpg" width="200" height="200" style="border-radius: 100px;">
-
 ## Screenshots
 ![Screenshots/1.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/1.png)
 ![Screenshots/2.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/2.png)
