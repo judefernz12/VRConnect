@@ -13,6 +13,18 @@ VRConnect is a social virtual reality application designed to bring the movie th
   <img src="https://img.eselt.de/img/15927791_ZKMyBHok7EZUnhGw/ad.jpg" width="200" height="200" style="border-radius: 100px;">
 
 ## Screenshots
+![Screenshots/1.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/1.png)
+![Screenshots/2.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/2.png)
+![Screenshots/3.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/3.png)
+![Screenshots/4.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/4.png)
+![Screenshots/5.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/5.png)
+![Screenshots/6.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/6.png)
+![Screenshots/7.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/7.png)
+![Screenshots/8.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/8.png)
+![Screenshots/9.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/9.png)
+![Screenshots/10.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/10.png)
+![Screenshots/11.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/11.png)
+![Screenshots/12.png](https://github.com/judefernz12/VRConnect/blob/ff39460e12e5aef649ade4c34b48b0143f09f51d/Screenshots/12.png)
 
 ## Getting Started
 
