@@ -9,6 +9,7 @@ VRConnect is a social virtual reality application designed to bring the movie th
 - **Voice Chat**: Talk to your friends in real-time using voice chat. No need for external apps—just speak and listen as you enjoy your movie.
 - **Immersive Experience**: VRConnect provides a fully immersive experience. Feel like you're sitting in a real movie theater with your friends.
 - **Easy Setup**: Set up your VR headset, log in to VRConnect, and enter the room name to start your movie night in seconds.
+  
   <img src="https://img.eselt.de/img/15927791_ZKMyBHok7EZUnhGw/ad.jpg" width="200" height="200" style="border-radius: 100px;">
 
 ## Screenshots
