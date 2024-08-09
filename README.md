@@ -32,7 +32,7 @@ VRConnect is a social virtual reality application designed to bring the movie th
 
 - Android device running v7.0 and above compatible with the Cardboard SDK.
 - Stable internet connection.
-- Bluetooth earphones for a better immersive sound experience
+- Bluetooth Earphones for a better immersive sound experience.
 
 ## Usage
 
